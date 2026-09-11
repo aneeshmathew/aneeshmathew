@@ -62,7 +62,7 @@ const aneesh: developer = {
 <table>
   <tr>
     <!-- Project 1: PulseConnect -->
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">PulseConnect</a>
       </h3>
@@ -82,12 +82,12 @@ const aneesh: developer = {
         <li>Real-time social engagement and network connection platform.</li>
         <li>Built with responsive UI components and modern state management.</li>
       </ul>
-      <p align="center">
+      <p align="start">
         👉 <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
     <!-- Project 2: BlogFoundry -->
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">BlogFoundry</a>
       </h3>
@@ -114,8 +114,8 @@ const aneesh: developer = {
   </tr>
   <tr>
     <!-- Project 3: MovieDB Client -->
-    <td width="50%" valign="top">
-      <h3 align="center">
+    <td width="100%" valign="top">
+      <h3 align="start">
         <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">MovieDB Client</a>
       </h3>
       <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -139,7 +139,7 @@ const aneesh: developer = {
       </p>
     </td>
     <!-- Project 4: TaskForge -->
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">
         <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">TaskForge</a>
       </h3>
