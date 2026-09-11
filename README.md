@@ -50,7 +50,9 @@ const aneesh: developer = {
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=vitest,selenium,cypress,jest,playwright,prometheus,grafana,figma" />
 </p>
 
-## 🚀 Featured Projects
+___
+
+## 📌 Applications & Demos
 
 | Project | Stack & Highlights |
 | :--- | :--- |
@@ -58,99 +60,3 @@ const aneesh: developer = {
 | <a href="https://blog-foundry-zeta.vercel.app/" target="_blank">**BlogFoundry**</a><br><br>[![BlogFoundry](https://api.microlink.io/?url=https://blog-foundry-zeta.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://blog-foundry-zeta.vercel.app/) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br><br>• Full-stack publishing workspace and rich-text blogging platform.<br>• Designed with optimized SEO rendering and clean content workflows.<br><br>👉 [Live Demo](https://blog-foundry-zeta.vercel.app/) |
 | <a href="https://moviedb-client.vercel.app/" target="_blank">**MovieDB Client**</a><br><br>[![MovieDB Client](https://api.microlink.io/?url=https://moviedb-client.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://moviedb-client.vercel.app/) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br><br>• Media exploration platform with dynamic search, filtering, and real-time data fetching.<br>• High-performance pagination and rich visual interface.<br><br>👉 [Live Demo](https://moviedb-client.vercel.app/) |
 | <a href="https://task-forge-web-iota.vercel.app/" target="_blank">**TaskForge**</a><br><br>[![TaskForge](https://api.microlink.io/?url=https://task-forge-web-iota.vercel.app/&screenshot=true&meta=false&embed=screenshot.url)](https://task-forge-web-iota.vercel.app/) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br><br>• Enterprise productivity and task management app.<br>• Features custom drag-and-drop state updates, persistence, and workflow tracking.<br><br>👉 [Live Demo](https://task-forge-web-iota.vercel.app/) |
-
-## 🛠️ Featured Work & Demos
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Pulse Connect</h3>
-      <a href="https://pulse-connect-indol.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://pulse-connect-indol.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Pulse Connect" width="100%"/>
-      </a>
-      <p align="center">
-        <b>Real-Time Social Platform</b><br/>
-        <code>React</code> • <code>TypeScript</code> • <code>Tailwind</code><br/><br/>
-        <a href="https://pulse-connect-indol.vercel.app/">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">BlogFoundry</h3>
-      <a href="https://blog-foundry-zeta.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://blog-foundry-zeta.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="BlogFoundry" width="100%"/>
-      </a>
-      <p align="center">
-        <b>Content Publishing Workspace</b><br/>
-        <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code><br/><br/>
-        <a href="https://blog-foundry-zeta.vercel.app/">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">MovieDB Client</h3>
-      <a href="https://moviedb-client.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://moviedb-client.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="MovieDB Client" width="100%"/>
-      </a>
-      <p align="center">
-        <b>Media Discovery Application</b><br/>
-        <code>React</code> • <code>REST API</code> • <code>State Management</code><br/><br/>
-        <a href="https://moviedb-client.vercel.app/">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">TaskForge</h3>
-      <a href="https://task-forge-web-iota.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://task-forge-web-iota.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="TaskForge" width="100%"/>
-      </a>
-      <p align="center">
-        <b>Workflow & Task Manager</b><br/>
-        <code>React</code> • <code>Redux Toolkit</code> • <code>TypeScript</code><br/><br/>
-        <a href="https://task-forge-web-iota.vercel.app/">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-## 📌 Applications & Demos
-
-* **[Pulse Connect](https://pulse-connect-indol.vercel.app/)** — Real-time networking platform with modern React & TypeScript.
-  <details>
-    <summary>🔍 View Preview & Details</summary>
-    <br/>
-    <a href="https://pulse-connect-indol.vercel.app/">
-      <img src="https://api.microlink.io/?url=https://pulse-connect-indol.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="Pulse Connect"/>
-    </a>
-  </details>
-
-* **[BlogFoundry](https://blog-foundry-zeta.vercel.app/)** — Full-stack publishing workspace built with Next.js and TypeScript.
-  <details>
-    <summary>🔍 View Preview & Details</summary>
-    <br/>
-    <a href="https://blog-foundry-zeta.vercel.app/">
-      <img src="https://api.microlink.io/?url=https://blog-foundry-zeta.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="BlogFoundry"/>
-    </a>
-  </details>
-
-* **[MovieDB Client](https://moviedb-client.vercel.app/)** — Interactive media discovery engine connected to external movie APIs.
-  <details>
-    <summary>🔍 View Preview & Details</summary>
-    <br/>
-    <a href="https://moviedb-client.vercel.app/">
-      <img src="https://api.microlink.io/?url=https://moviedb-client.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="MovieDB Client"/>
-    </a>
-  </details>
-
-* **[TaskForge](https://task-forge-web-iota.vercel.app/)** — Enterprise productivity and stateful task orchestration platform.
-  <details>
-    <summary>🔍 View Preview & Details</summary>
-    <br/>
-    <a href="https://task-forge-web-iota.vercel.app/">
-      <img src="https://api.microlink.io/?url=https://task-forge-web-iota.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="TaskForge"/>
-    </a>
-  </details>
-
-
-
----
