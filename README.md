@@ -25,10 +25,10 @@ const aneesh: developer = {
   ]
 
   technologies: {
-    frondEnd: ["React", "Next.js", "Redux", "Zustand", "MobX", "Tailwind CSS", "Lucide React", "Frame Motion",D3],
+    frontend: ["React", "Next.js", "Redux", "Zustand", "MobX", "Tailwind CSS", "Lucide React", "Framer Motion",D3],
     backendAndAPIs: ["Node.js", "Express.js", "GraphQL", "Apollo", "REST", "gRPC"],
     databasesAndORMs: ["PostgreSQL", "MongoDB", "Prisma", "Drizzle", "Mongoose", "Supabase"],
-    testingAndDevOps: ["Vitest", "Jest", "Cypress", "Playwright", "Docker", "AWS", "GCP", "Jenkins", Circle CI CI/CD"],
+    testingAndDevOps: ["Vitest", "Jest", "Cypress", "Playwright", "Docker", "AWS", "GCP", "Jenkins", "Circle CI CI/CD"],
     aiTools: ["Cursor", "GitHub Copilot", "Claude Code", "OpenAI Codex"]
   },
 
