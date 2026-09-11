@@ -62,15 +62,15 @@ const aneesh: developer = {
 <table>
   <tr>
     <!-- Project 1: PulseConnect -->
-    <td width="60%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">PulseConnect</a>
       </h3>
       <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="680" alt="PulseConnect Preview" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="480" alt="PulseConnect Preview" />
       </a>      
     </td>
-    <td width="40%" valign="top">
+    <td width="50%" valign="top">
     <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -90,15 +90,15 @@ const aneesh: developer = {
     </td>
     <tr>
     <!-- Project 2: BlogFoundry -->
-    <td width="70%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">BlogFoundry</a>
       </h3>
       <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="680" alt="BlogFoundry Preview" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="480" alt="BlogFoundry Preview" />
       </a>
     </td>
-      <td width="30%" valign="top">
+      <td width="50%" valign="top">
          <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
