@@ -91,9 +91,7 @@ const aneesh: developer = {
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry" />
       </a>
       <p align="center">
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
       </p>
       <ul>
         <li>Full-stack publishing workspace and rich-text blogging platform.</li>
