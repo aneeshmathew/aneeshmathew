@@ -61,18 +61,22 @@ const aneesh: developer = {
 
 <table>
   <tr>
-    <!-- Box 1: Pulse Connect -->
+    <!-- Project 1: PulseConnect -->
     <td width="50%" valign="top">
       <h3 align="center">
-        <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">Pulse Connect</a>
+        <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">PulseConnect</a>
       </h3>
       <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="100%" alt="Pulse Connect" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="100%" alt="PulseConnect Preview" />
       </a>
+      <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white" alt="Zustand" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
       <ul>
         <li>Real-time social engagement and network connection platform.</li>
@@ -82,18 +86,22 @@ const aneesh: developer = {
         👉 <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
-    <!-- Box 2: BlogFoundry -->
+    <!-- Project 2: BlogFoundry -->
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">BlogFoundry</a>
       </h3>
       <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry Preview" />
       </a>
+      <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/OAuth-EB5424?style=flat-square&logo=auth0&logoColor=white" alt="OAuth" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
       <ul>
         <li>Full-stack publishing workspace and rich-text blogging platform.</li>
@@ -105,18 +113,22 @@ const aneesh: developer = {
     </td>
   </tr>
   <tr>
-    <!-- Box 3: MovieDB Client -->
+    <!-- Project 3: MovieDB Client -->
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">MovieDB Client</a>
       </h3>
       <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://moviedb-client.vercel.app/" width="100%" alt="MovieDB Client" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://moviedb-client.vercel.app/" width="100%" alt="MovieDB Client Preview" />
       </a>
+      <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Apollo_Server-311C87?style=flat-square&logo=apollographql&logoColor=white" alt="Apollo Server" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
         <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
       <ul>
         <li>Media exploration platform with dynamic search, filtering, and real-time data fetching.</li>
@@ -126,18 +138,22 @@ const aneesh: developer = {
         👉 <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
-    <!-- Box 4: TaskForge -->
+    <!-- Project 4: TaskForge -->
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">TaskForge</a>
       </h3>
       <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">
-        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://task-forge-web-iota.vercel.app/" width="100%" alt="TaskForge" />
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://task-forge-web-iota.vercel.app/" width="100%" alt="TaskForge Preview" />
       </a>
+      <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
       </p>
       <ul>
         <li>Enterprise productivity and task management app.</li>
