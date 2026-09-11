@@ -34,6 +34,7 @@ const aneesh: Developer = {
   currentFocus: "Architecting cloud-native frontends while integrating AI-augmented workflows",
   funFact: "Technical writer sharing insights on modern frontend patterns and observability"
 };
+```
 
 
 ## 🛠️ A Look at My Tech Toolbox...
