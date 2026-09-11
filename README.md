@@ -3,14 +3,15 @@
 
 Senior Software Engineer specializing in full-stack architecture, high-performance UI systems, and AI-augmented workflows
 
+
+
 ---
 
 ## 🕵️‍♂️ A Little More About Me...
 
 ```typescript
-const aneesh: Developer = {
+const aneesh: developer = {
   pronouns: "He" | "Him",
-  location: "Dublin, CA",
   currentRole: "Senior Software Engineer - Full Stack",
   
   languages: ["TypeScript", "JavaScript", "HTML5/CSS3", "Python", "Java", "SQL"],
@@ -35,6 +36,8 @@ const aneesh: Developer = {
   funFact: "Technical writer sharing insights on modern frontend patterns and observability"
 };
 ```
+
+
 
 
 ## 🛠️ A Look at My Tech Toolbox...
