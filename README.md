@@ -82,7 +82,6 @@ const aneesh: developer = {
         👉 <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
-
     <!-- Box 2: BlogFoundry -->
     <td width="50%" valign="top">
       <h3 align="center">
@@ -105,7 +104,6 @@ const aneesh: developer = {
       </p>
     </td>
   </tr>
-
   <tr>
     <!-- Box 3: MovieDB Client -->
     <td width="50%" valign="top">
@@ -128,7 +126,6 @@ const aneesh: developer = {
         👉 <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
-
     <!-- Box 4: TaskForge -->
     <td width="50%" valign="top">
       <h3 align="center">
