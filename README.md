@@ -62,14 +62,16 @@ const aneesh: developer = {
 <table>
   <tr>
     <!-- Project 1: PulseConnect -->
-    <td width="100%" valign="top">
+    <td width="70%" valign="top">
       <h3 align="center">
         <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">PulseConnect</a>
       </h3>
       <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="100%" alt="PulseConnect Preview" />
-      </a>
-      <br><br>
+      </a>      
+    </td>
+    <td width="30%" valign="top">
+    <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -86,15 +88,18 @@ const aneesh: developer = {
         👉 <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
     </td>
+    <tr>
     <!-- Project 2: BlogFoundry -->
-    <td width="100%" valign="top">
+    <td width="70%" valign="top">
       <h3 align="center">
         <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">BlogFoundry</a>
       </h3>
       <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry Preview" />
       </a>
-      <br><br>
+    </td>
+      <td width="30%" valign="top">
+         <br><br>
       <p align="center">
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -110,7 +115,7 @@ const aneesh: developer = {
       <p align="center">
         👉 <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
       </p>
-    </td>
+      </td>
   </tr>
   <tr>
     <!-- Project 3: MovieDB Client -->
