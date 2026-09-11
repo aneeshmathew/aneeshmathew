@@ -59,4 +59,98 @@ const aneesh: developer = {
 | <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">**MovieDB Client**</a><br><br><a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://moviedb-client.vercel.app/" width="680" alt="MovieDB Client" /></a> | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br><br>• Media exploration platform with dynamic search, filtering, and real-time data fetching.<br>• High-performance pagination and rich visual interface.<br><br>👉 [Live Demo](https://moviedb-client.vercel.app/) |
 | <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">**TaskForge**</a><br><br><a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://task-forge-web-iota.vercel.app/" width="680" alt="TaskForge" /></a> | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)<br><br>• Enterprise productivity and task management app.<br>• Features custom drag-and-drop state updates, persistence, and workflow tracking.<br><br>👉 [Live Demo](https://task-forge-web-iota.vercel.app/) |
 
+<table>
+  <tr>
+    <!-- Box 1: Pulse Connect -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">Pulse Connect</a>
+      </h3>
+      <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="100%" alt="Pulse Connect" />
+      </a>
+      <p align="center">
+        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+        ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+      </p>
+      <ul>
+        <li>Real-time social engagement and network connection platform.</li>
+        <li>Built with responsive UI components and modern state management.</li>
+      </ul>
+      <p align="center">
+        👉 <a href="https://pulse-connect-indol.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
+      </p>
+    </td>
+
+    <!-- Box 2: BlogFoundry -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">BlogFoundry</a>
+      </h3>
+      <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry" />
+      </a>
+      <p align="center">
+        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+        ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+      </p>
+      <ul>
+        <li>Full-stack publishing workspace and rich-text blogging platform.</li>
+        <li>Designed with optimized SEO rendering and clean content workflows.</li>
+      </ul>
+      <p align="center">
+        👉 <a href="https://blog-foundry-zeta.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Box 3: MovieDB Client -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">MovieDB Client</a>
+      </h3>
+      <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://moviedb-client.vercel.app/" width="100%" alt="MovieDB Client" />
+      </a>
+      <p align="center">
+        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+        ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white)
+        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+      </p>
+      <ul>
+        <li>Media exploration platform with dynamic search, filtering, and real-time data fetching.</li>
+        <li>High-performance pagination and rich visual interface.</li>
+      </ul>
+      <p align="center">
+        👉 <a href="https://moviedb-client.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
+      </p>
+    </td>
+
+    <!-- Box 4: TaskForge -->
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">TaskForge</a>
+      </h3>
+      <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer">
+        <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://task-forge-web-iota.vercel.app/" width="100%" alt="TaskForge" />
+      </a>
+      <p align="center">
+        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+        ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+      </p>
+      <ul>
+        <li>Enterprise productivity and task management app.</li>
+        <li>Features custom drag-and-drop state updates, persistence, and workflow tracking.</li>
+      </ul>
+      <p align="center">
+        👉 <a href="https://task-forge-web-iota.vercel.app/" target="_blank" rel="noopener noreferrer"><b>Live Demo</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
 ___
+
