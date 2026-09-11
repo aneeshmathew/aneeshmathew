@@ -70,9 +70,9 @@ const aneesh: developer = {
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://pulse-connect-indol.vercel.app/" width="100%" alt="Pulse Connect" />
       </a>
       <p align="center">
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-        ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
       </p>
       <ul>
         <li>Real-time social engagement and network connection platform.</li>
@@ -91,7 +91,9 @@ const aneesh: developer = {
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://blog-foundry-zeta.vercel.app/" width="100%" alt="BlogFoundry" />
       </a>
       <p align="center">
-        ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
       </p>
       <ul>
         <li>Full-stack publishing workspace and rich-text blogging platform.</li>
@@ -112,9 +114,9 @@ const aneesh: developer = {
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://moviedb-client.vercel.app/" width="100%" alt="MovieDB Client" />
       </a>
       <p align="center">
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-        ![REST API](https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white)
-        ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/REST_API-0055DA?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       </p>
       <ul>
         <li>Media exploration platform with dynamic search, filtering, and real-time data fetching.</li>
@@ -133,9 +135,9 @@ const aneesh: developer = {
         <img src="https://image.thum.io/get/width/1200/crop/1200/maxAge/1/noanimate/https://task-forge-web-iota.vercel.app/" width="100%" alt="TaskForge" />
       </a>
       <p align="center">
-        ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-        ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-        ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       </p>
       <ul>
         <li>Enterprise productivity and task management app.</li>
@@ -147,5 +149,6 @@ const aneesh: developer = {
     </td>
   </tr>
 </table>
-___
+
+---
 
