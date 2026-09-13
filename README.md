@@ -1,7 +1,18 @@
 
-# Hi there, I'm Aneesh Mathew 👋
+<!-- 
+<p align="center">
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript,html,css,java,python,plsql" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,nodejs,express,redux,zustand,tailwindcss,styledcomponents,d3" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=vite,webpack,babel,vercel,jenkins,circleci,docker,git,storybook" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=graphql,apollo,trpc,reactquery,api,grpc,swagger,redis,sonarqube" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,gcp,supabase,mongodb,postgresql,prisma,mongoose,rabbitmq,kafka" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=vitest,selenium,cypress,jest,playwright,prometheus,grafana,figma" />
+</p>
+-->
 
-Software Engineer specializing in full-stack architecture, high-performance UI systems, and AI-augmented workflows
+
+<img width="2172" height="724" alt="bd12c53f-1100-4849-9d73-51d5a90686a2" src="https://github.com/user-attachments/assets/ffab3af4-50c6-44eb-9271-3a21e049da26" />
+
 
 ![profile count](https://komarev.com/ghpvc/?username=aneeshmathew&color=red)&nbsp;
 [![GitHub aneeshmathew](https://img.shields.io/github/followers/aneeshmathew?label=follow&style=social)](https://github.com/aneeshmathew)&nbsp;
@@ -15,19 +26,6 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 
 <img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/f5d612fe-f752-4aa1-8b21-0c0eb532a024" />
 
-
-<img width="2172" height="724" alt="bd12c53f-1100-4849-9d73-51d5a90686a2" src="https://github.com/user-attachments/assets/ffab3af4-50c6-44eb-9271-3a21e049da26" />
-
-<!-- 
-<p align="center">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript,html,css,java,python,plsql" />
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,nodejs,express,redux,zustand,tailwindcss,styledcomponents,d3" />
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=vite,webpack,babel,vercel,jenkins,circleci,docker,git,storybook" />
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=graphql,apollo,trpc,reactquery,api,grpc,swagger,redis,sonarqube" />
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,gcp,supabase,mongodb,postgresql,prisma,mongoose,rabbitmq,kafka" />
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=vitest,selenium,cypress,jest,playwright,prometheus,grafana,figma" />
-</p>
--->
 
 
 <!-- 
