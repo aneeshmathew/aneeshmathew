@@ -14,34 +14,9 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 
 ## 🕵️‍♂️ A Little More About Me...
 
-```typescript
-const aneesh: developer = {
-  pronouns: "He" | "Him",
-  currentRole: "Senior Software Engineer - Full Stack",
-  
-  languages: ["TypeScript", "JavaScript", "HTML5/CSS3", "Python", "Java", "SQL"],
 
-  askMeAbout: [
-    "full-stack engineering",
-    "architecting enterprise-scale React web apps",
-    "scaling microfrontends, monorepos & custom design systems",
-    "complex state management across stateful canvas workflows",
-    "leveraging AI tools (Cursor, Copilot, Claude) to 10x dev velocity"
-  ]
 
-  technologies: {
-    frontend: ["React","Next.js","Redux","Zustand","MobX","Tailwind CSS","Lucide React","FramerMotion",D3],
-    backendAndAPIs: ["Node.js","Express.js","GraphQL","Apollo","REST","gRPC","Tanstack Query"],
-    databasesAndORMs: ["PostgreSQL","MongoDB","Prisma","Drizzle","Mongoose","Supabase"],
-    testingAndDevOps: ["Vitest","Jest","Cypress","Playwright","Docker","AWS","GCP","Jenkins","CircleCI CI/CD"],
-    aiTools: ["Cursor","GitHub Copilot","Claude Code","OpenAI Codex"]
-  },
-
-  currentFocus: "Architecting cloud-native frontends while integrating AI-augmented workflows",
-  funFact: "Technical writer sharing insights on modern frontend patterns and observability"
-};
-```
-
+<img width="1536" height="1024" alt="d311820f-578c-453f-84be-1fe133eb8149" src="https://github.com/user-attachments/assets/3adaf8e2-1f11-42a6-a088-d321533571d7" />
 
 
 
