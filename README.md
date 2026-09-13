@@ -45,6 +45,7 @@ const aneesh: developer = {
 
 <img width="2172" height="724" alt="bd12c53f-1100-4849-9d73-51d5a90686a2" src="https://github.com/user-attachments/assets/ffab3af4-50c6-44eb-9271-3a21e049da26" />
 
+<!-- 
 <p align="center">
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript,html,css,java,python,plsql" />
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=react,nextjs,nodejs,express,redux,zustand,tailwindcss,styledcomponents,d3" />
@@ -53,6 +54,7 @@ const aneesh: developer = {
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,gcp,supabase,mongodb,postgresql,prisma,mongoose,rabbitmq,kafka" />
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=vitest,selenium,cypress,jest,playwright,prometheus,grafana,figma" />
 </p>
+-->
 
 ---
 
