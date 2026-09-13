@@ -1,4 +1,18 @@
 
+
+![profile count](https://komarev.com/ghpvc/?username=aneeshmathew&color=red)&nbsp;
+[![GitHub aneeshmathew](https://img.shields.io/github/followers/aneeshmathew?label=follow&style=social)](https://github.com/aneeshmathew)&nbsp;
+
+
+<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/f5d612fe-f752-4aa1-8b21-0c0eb532a024" />
+
+
+---
+
+<img width="1200" height="675" alt="its_me_aneeshmathew" src="https://github.com/user-attachments/assets/18f04742-6ad7-49f9-a2ca-4c091f6e3a6f" />
+
+
+---
 <!-- 
 <p align="center">
     <img src="https://skill-icons-v2.vercel.app/api/icons?i=typescript,javascript,html,css,java,python,plsql" />
@@ -13,20 +27,7 @@
 
 <img width="2172" height="724" alt="bd12c53f-1100-4849-9d73-51d5a90686a2" src="https://github.com/user-attachments/assets/ffab3af4-50c6-44eb-9271-3a21e049da26" />
 
-
-![profile count](https://komarev.com/ghpvc/?username=aneeshmathew&color=red)&nbsp;
-[![GitHub aneeshmathew](https://img.shields.io/github/followers/aneeshmathew?label=follow&style=social)](https://github.com/aneeshmathew)&nbsp;
-
 ---
-
-<img width="1200" height="675" alt="its_me_aneeshmathew" src="https://github.com/user-attachments/assets/18f04742-6ad7-49f9-a2ca-4c091f6e3a6f" />
-
-
----
-
-<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/f5d612fe-f752-4aa1-8b21-0c0eb532a024" />
-
-
 
 <!-- 
 HIDDEN IMAGE STORAGE (For GitHub CDN links)
