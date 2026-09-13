@@ -1,7 +1,7 @@
 
 # Hi there, I'm Aneesh Mathew 👋
 
-Senior Software Engineer specializing in full-stack architecture, high-performance UI systems, and AI-augmented workflows
+Software Engineer specializing in full-stack architecture, high-performance UI systems, and AI-augmented workflows
 
 ![profile count](https://komarev.com/ghpvc/?username=aneeshmathe&color=red)&nbsp;
 [![GitHub aneeshmathew](https://img.shields.io/github/followers/aneeshmathew?label=follow&style=social)](https://github.com/aneeshmathew)&nbsp;
