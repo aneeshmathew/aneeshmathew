@@ -8,7 +8,7 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 
 ---
 
-<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/2712f895-2191-4315-9444-f95d1645d10d" />
+<img width="1200" height="675" alt="its_me_aneeshmathew" src="https://github.com/user-attachments/assets/18f04742-6ad7-49f9-a2ca-4c091f6e3a6f" />
 
 
 ---
@@ -16,7 +16,7 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 ## 🕵️‍♂️ A Little More About Me...
 
 
-<img width="1536" height="1024" alt="d311820f-578c-453f-84be-1fe133eb8149" src="https://github.com/user-attachments/assets/3adaf8e2-1f11-42a6-a088-d321533571d7" />
+<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/f5d612fe-f752-4aa1-8b21-0c0eb532a024" />
 
 
 ## 🛠️ A Look at My Tech Toolbox...
