@@ -19,6 +19,9 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 <img width="1536" height="1024" alt="d311820f-578c-453f-84be-1fe133eb8149" src="https://github.com/user-attachments/assets/3adaf8e2-1f11-42a6-a088-d321533571d7" />
 
 
+<img width="1672" height="941" alt="64300703-61c3-4557-a540-0efb82963fa2" src="https://github.com/user-attachments/assets/5e44bcab-e092-4fbd-aba0-0aba6c125e3e" />
+
+
 
 ## 🛠️ A Look at My Tech Toolbox...
 
