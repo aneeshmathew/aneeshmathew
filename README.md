@@ -8,7 +8,8 @@ Software Engineer specializing in full-stack architecture, high-performance UI s
 
 ---
 
-<img width="1200" height="675" alt="its_me_aneeshmathew" src="https://github.com/user-attachments/assets/649b152c-f8d7-488a-889e-bccb4c6598ec" />
+<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/2712f895-2191-4315-9444-f95d1645d10d" />
+
 
 ---
 
