@@ -3,8 +3,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=aneeshmathew&color=red)&nbsp;
 [![GitHub aneeshmathew](https://img.shields.io/github/followers/aneeshmathew?label=follow&style=social)](https://github.com/aneeshmathew)&nbsp;
 
-
-<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/f5d612fe-f752-4aa1-8b21-0c0eb532a024" />
+<img width="1536" height="1024" alt="bd54c8bb-a961-4b10-b300-a0fbe1f33372" src="https://github.com/user-attachments/assets/cbdb9b83-3b0d-4bcc-af98-354869f4d6b2" />
 
 
 ---
