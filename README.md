@@ -37,6 +37,10 @@ PulseConnect: ![PulseConnect](https://github.com/user-attachments/assets/6aeb28e
 BlogFoundry: ![BlogFoundry](https://github.com/user-attachments/assets/d9b3126c-6398-479e-a7e8-56c2d774d0c0)
 MovieDB: ![MovieDB Client](https://github.com/user-attachments/assets/5f3a83c4-a7f3-4330-8049-b4cfd1f5a943)
 TaskForge: ![TaskForge](https://github.com/user-attachments/assets/3836940b-7ce0-4934-b512-8bc82c380806)
+DynamicSupplyChainAndLogistics: ![DynamicSupplyChainAndLogistics](https://github.com/user-attachments/assets/00b286e4-9775-41cd-b464-e501d4b320c8)
+FinancialResearchAgent: ![FinancialResearchAgent](https://github.com/user-attachments/assets/90e599ed-9f57-4073-a388-ee9d198df954)
+CodeReviewArchitecturalAgent: ![CodeReviewArchitecturalAgent](https://github.com/user-attachments/assets/cf27d11d-b1d5-4280-a314-e95d18724a3d)
+TripNest: ![TripNest](https://github.com/user-attachments/assets/480f4b34-9643-4587-8182-ac2fa2efd9cb)
 -->
 ---
 
